@@ -37,7 +37,7 @@ Format : /commande param1;param2;...
 
 	/goto name
 	/label name
-	/menu text1/label1/text2/label2/text3/label3
+	/menu text1;label1;text2;label2;text3;label3
 
 ## Mots-clé
 
@@ -70,7 +70,7 @@ Format : /commande param1;param2;...
 	:Sakura
 	Allez montre ton robinet !
 
-	/menu Bon... Okay./kenildioui/Non c'est non !/kenildinon
+	/menu Bon... Okay.;kenildioui;Non c'est non !;kenildinon
 
 	/label kenildioui
 	...
