@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TestToDelete : MonoBehaviour {
+public class UiManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
